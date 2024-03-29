@@ -1,0 +1,18 @@
+Em construção...
+
+Hoje venho trazer um exemplo de de como iniciar um projeto fullstack utilizando node como back-end e react como front-end
+
+Comandas em sequencia: Back-end com typescript
+
+npm init
+npm install express - 
+npm install typescript @types/node @types/express ts-node nodemon --save-dev
+npm install morgan 
+body-parser 
+mysql2 multer 
+bcrypt 
+jsonwebtoken 
+fs 
+fs-extra
+
+https://www.alura.com.br/artigos/vite-criar-aplicacao-react-typescript?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-2273097816642&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gWA3wSqO1Of3afmp-XlFMhvdNUQ7BxPaGoAfZ8h7TK4b9TmqQHaH8kaAjRnEALw_wcB
