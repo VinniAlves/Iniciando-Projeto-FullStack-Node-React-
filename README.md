@@ -6,15 +6,13 @@ Então aqui estou escrevendo esse "post", para mostrar aqueles que estão começ
 Vale lembrar que essa postagem está relacionado a linguagem de Node.
 
 
+Vamos lá sem mais enrolações.
+Primeiro passo que podemos seguir é a criação dos arquivos onde vamos salvar nosso projeto.
+(Como estou utilizando o sistema operacional Windonws, vou pular algumas etapas e ir direto para o explorador de tarefas)
+Dentro do explorador de tarefas vamos criar uma pasta principal vamos chamar de "Projeto fullstack"
+e criar internamento duas pastas filhas chamadas de "Back-end" e outra "Front-end", para distinguir os sistemas um do outro;
 
-Todos que trabalham com programação vire em outra se pegam para criar novos projetos
-e por isso que hoje atravez desse Readme venho mostrar como eu inicio um projeto fullstack para node e react com typescript
-Obs: é mais uso interno meu do que uma aula porem sempre é valido compartilhar experiencias com pessoas que estão começando
 
-Então vamos lá penso que a primeira coisa que pensamos quando vamos iniciar um novo projeto do zero é o basico onde vamos criar nossa pastas diretorias do projetos
-Como estou no windows e vou facilitar minnha vida, vou ir direto para gerenciado de tarefas 
-(poderia utilizar o CMD para criar o projeto mais vamos continuar assim mesmo)
-vamos abrir o gerenciador de tarefas e criar
 
 Comandas em sequencia: Back-end com typescript
 
